@@ -8,6 +8,6 @@
 <br>
 <br>
 <div style="display: flex; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=huyxuanvu&show_icons=true&theme=gruvbox" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huyxuanvu&show_icons=true&theme=gruvbox" width="350" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyxuanvu&layout=compact&theme=dark" width="300"/>
 </div>
